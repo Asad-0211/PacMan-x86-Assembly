@@ -3,7 +3,7 @@
 A fully playable console-based Pac-Man clone built in x86 Assembly using the Irvine32 library.
 
 ## Demo
-<video src="demo.mp4" controls></video>
+>https://github.com/Asad-0211/PacMan-x86-Assembly/raw/main/demo.mp4
 
 ## Overview
 This project is a fully functional graphical UI within the console, featuring a main menu, instruction screen, pause functionality, and a persistent game history that reads and writes player scores to a local `Scores.txt` file.
